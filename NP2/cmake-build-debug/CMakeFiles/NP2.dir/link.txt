@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/NP2.dir/server.c.o CMakeFiles/NP2.dir/client.c.o -o NP2 
